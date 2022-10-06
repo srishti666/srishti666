@@ -2,6 +2,10 @@
 <h3 align="center">Welcome to my profile!<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/828/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;Loves%20to%20Code;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
+</p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srishti666" alt="srishti666" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/swisss_tea" target="blank"><img src="https://img.shields.io/twitter/follow/swisss_tea?logo=twitter&style=for-the-badge" alt="swisss_tea" /></a> </p>
