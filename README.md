@@ -27,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srishti666&show_icons=true&locale=en" alt="srishti666" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srishti666&" alt="srishti666" /></p>
+
+[![Srishti's github activity graph](https://activity-graph.herokuapp.com/graph?username=srishti666&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide)](https://github.com/srishti666/github-readme-activity-graph)
