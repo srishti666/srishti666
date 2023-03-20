@@ -37,7 +37,7 @@
  <h2 align="left">⚡Activity Graph:</h2>
   <a><img alt="Srishti's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=srishti666&theme=react-dark&hide_border=true" /></a>      
 
- <h2 align="left">🐍 Snake eating away my contibutions</h2>
+ <h2 align="left">🐍Watch a Snake eating away my contibutions</h2>
 <img align="center" src="https://github.com/Ajay84sia/Ajay84sia/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/>
 
  <h2 align="left">✍️ Random Dev Quote</h2>
