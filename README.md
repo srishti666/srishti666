@@ -33,7 +33,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srishti666&" alt="srishti666" /></p>
 
-[![Srishti's github activity graph]
 
 ### ✍️ Random Dev Quote
   <div align="center">  
