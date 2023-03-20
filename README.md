@@ -45,8 +45,6 @@
 <img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="550px"/>
     </div>  
 
-
-<img src="https://github.com/muskanrani/muskanrani/blob/master/qrcode_muskanrani.github.io.png"  style="width: 20%" />
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 
