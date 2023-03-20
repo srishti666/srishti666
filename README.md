@@ -33,4 +33,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srishti666&" alt="srishti666" /></p>
 
-[![Srishti's github activity graph](https://activity-graph.herokuapp.com/graph?username=srishti666&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide)](https://github.com/srishti666/github-readme-activity-graph)
+[![Srishti's github activity graph]
+
+### ✍️ Random Dev Quote
+  <div align="center">  
+<img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="550px"/>
+    </div>  
+
+ <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
