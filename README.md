@@ -33,6 +33,26 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srishti666&" alt="srishti666" /></p>
 
+## 📊 Statistics  
+<div>
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=srishti666&theme=2077" width="46%" />
+  <br/>
+  <br/>
+    <br/>
+  <br/>
+<img align="right" src="https://streak-stats.demolab.com/?user=srishti666&_border=true&theme=dark&hide_border=true&theme=react" width="46%" />
+</div>
+<br/>
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">    
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srishti666&theme=2077" style="height: 300px"  />                                 </div>                                                                                       
+                                                                                                                             
+ <h2 align="left">⚡Activity Graph:</h2>
+  <a><img alt="Ajay Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=srishti666&theme=react-dark&hide_border=true" /></a>   
+
 ### 🐍Snake eating away my contibutions
 <img align="center" src="https://github.com/Ajay84sia/Ajay84sia/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/>
 
