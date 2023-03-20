@@ -12,10 +12,10 @@
 
 - 📫 How to reach me **srishtimanna2@gmail.com**
 
-<p align="center"> 
+<!-- <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=srishti666&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views-count" />
  <img src="https://img.shields.io/github/followers/srishti666?label=Followers&style=social" alt="followers-count"> 
-</p>
+</p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
