@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srishti666" alt="srishti666" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/swisss_tea" target="blank"><img src="https://img.shields.io/twitter/follow/swisss_tea?logo=twitter&style=for-the-badge" alt="swisss_tea" /></a> </p>
 
 
 - 💬 Ask me about **Web Development**
