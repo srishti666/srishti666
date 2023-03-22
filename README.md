@@ -44,6 +44,12 @@
   <div align="center">  
 <img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="550px"/>
     </div>  
+    
+<h2 align="left">👽 Check out my Git Art</h2>
+  <div align="center">  
+<p><img align="center" src="gitartwork.svg" /></p>
+   </div>  
+    
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
