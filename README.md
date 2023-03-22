@@ -38,7 +38,7 @@
   <a><img alt="Srishti's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=srishti666&theme=react-dark&hide_border=true" /></a>      
 
  <h2 align="left">🐍Watch a Snake eating away my contibutions</h2>
-<img align="center" src="https://github.com/srishti666/srishti666/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/>
+<img alt="github contribution snake animation" src="https://github.com/DungGramer/srishti666/blob/metrics/github-contribution-grid-snake.svg">
 
  <h2 align="left">✍️ Random Dev Quote</h2>
   <div align="center">  
@@ -49,3 +49,5 @@
 
 
  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=0d2a52&style=for-the-badge&logo" alt="back to top" /></a></p>
