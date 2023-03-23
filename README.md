@@ -37,8 +37,8 @@
  <h2 align="left">⚡Activity Graph:</h2>
   <a><img alt="Srishti's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=srishti666&theme=react-dark&hide_border=true" /></a>      
 
- <h2 align="left">🐍Watch a Snake eating away my contibutions</h2>
-![snake gif](https://github.com/srishti666/srishti666/blob/output/github-contribution-grid-snake.gif)
+ <h2 align="left">🐍Watch my contribution graph get eaten by a snake</h2>
+ <img  src="https://github.com/srishti666/srishti666/blob/output/github-contribution-grid-snake.gif"/>   
 
  <h2 align="left">✍️ Random Dev Quote</h2>
   <div align="center">  
