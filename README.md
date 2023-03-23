@@ -1,6 +1,6 @@
 <h1 align="center">Hey there!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">  I'm Srishti <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 <h3 align="center">Welcome to my profile!!<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h3>
-<img align="center" alt="Coding" width="400" src="https://miro.medium.com/max/828/1*qdAW1TjCN57h1lbuuzvchg.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/828/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srishti666" alt="srishti666" /></a> </p>
