@@ -7,7 +7,7 @@
 
 
 
-- 💬 Ask me about **New Tech trends/Coding/Web Development**
+- 💬 Ask me about **Anything Related to Technology**
 
 - 📫 How to reach me **srishtimanna2@gmail.com**
 
