@@ -7,7 +7,7 @@
 
 
 
-- 💬 Ask me about **Anything Related to Technology**
+- 💬 Ask me about **Anything Related to Web Dev**
 
 - 📫 How to reach me **srishtimanna2@gmail.com**
 
