@@ -40,8 +40,7 @@
 
 
  <h2 align="left">🐍Watch my contribution graph get eaten by a snake</h2>
-<!--  <img  src="https://github.com/srishti666/srishti666/blob/output/github-contribution-grid-snake.gif"/>   
-    ![Snake animation](https://github.com/srishti666/srishti666/blob/output/github-contribution-grid-snake.svg)
+<img  src="https://github.com/srishti666/srishti666/blob/output/github-contribution-grid-snake.gif"/>   
 
  <h2 align="left">✍️ Random Dev Quote</h2>
   <div align="center">  
