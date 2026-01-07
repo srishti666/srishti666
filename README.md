@@ -31,10 +31,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srishti666&show_icons=true&locale=en" alt="srishti666" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srishti666&" alt="srishti666" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srishti666&" alt="srishti666" /></p> -->
 
 
-<!-- ---------------new-------- -->
+<!-- ---------------new stats--------------- -->
 
 <div>
   <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=srishti666&theme=react" width="51%" />
