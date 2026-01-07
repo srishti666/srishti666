@@ -33,6 +33,19 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srishti666&" alt="srishti666" /></p>
 
+
+<!-- ---------------new-------- -->
+
+<div>
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=srishti666&theme=react" width="51%" />
+  <img align="center" src="https://github-readme-stats-matin.vercel.app/api?username=srishti666&layout=compact&show_icons=true&theme=react" alt="srishti666 github-readme-stats" width="48%" />
+</div>
+<br />
+<div>
+  <img align="center" src="https://github-readme-stats-matin.vercel.app/api/top-langs/?username=srishti666&layout=compact&theme=react" alt="srishti666 github readme top-langs" width="39%" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=srishti666&theme=merko" alt="srishti666 github readme activity graph" width="60%" />
+</div>
+
                                                                                       
                                                                                                                              
 <!-- <h2 align="left">⚡Activity Graph:</h2>
