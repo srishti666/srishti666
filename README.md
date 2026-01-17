@@ -64,6 +64,10 @@
   <div align="center">  
 <p><img align="center" src="gitartwork.svg" /></p>
    </div>  
+
+ <h2 align="left">🐍 Watch a snake eat my contibutions</h2>
+ 
+   ![snake gif](https://github.com/srishti666/srishti666/blob/output/github-snake.svg)
     
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
